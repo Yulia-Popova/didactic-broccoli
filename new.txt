@@ -1,5 +1,6 @@
-create (local)
+create (local) #первый коммит
 
-add+++(2) (local)
+add+++(2) (local) #второй и третий
 
-add string (1) (remote)
+add string (1) (remote) #первый
+add string (2) (remote) #второй
