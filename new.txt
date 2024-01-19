@@ -6,3 +6,5 @@ add string (1) (remote) #первый
 add string (2) (remote) #второй
 
 add (3) (local) #четвертый
+
+day 2/ test python script (remote) # третий коммит
