@@ -8,3 +8,4 @@ add string (2) (remote) #второй
 add (3) (local) #четвертый
 
 day 2/ test python script (remote) # третий коммит
+day 2/ test python script (remote) # четвертый коммит
