@@ -11,3 +11,4 @@ day 2/ test python script (remote) # третий коммит
 day 2/ test python script (remote) # четвертый коммит
 day 3/ test python script (remote) # пятый коммит
 day 4/ test python script (remote) # шестой коммит
+day 5/ test python script (remote) # седьмой коммит
